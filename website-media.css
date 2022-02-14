@@ -1,0 +1,163 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 767px){
+    #display{
+        flex-direction: column;
+    }
+/*---------------------navigation-------------------*/
+    .back{
+        width: 100%;
+    }
+    .menu{
+        margin: 0 auto;
+    }
+    .logo{
+        margin: 0 auto;
+    }
+/*---------------------section 1----------------------*/
+    .content{
+        text-align: center;
+        width: 100%;
+    }
+    .heading{
+        font-size: xx-large;
+    }
+    .image1{
+        width: 100%;
+        padding: 50px 0px;
+    }
+/*---------------------section 2----------------------*/
+    .image2 {
+        width: 100%;
+    }
+    .button2{
+        left: 100px;
+        top: 90px;
+    }
+    .content2{
+        width: 97%;
+        margin: 50px 10px;
+    }
+    .icon1 {
+        width: 80px;
+        height: 50px;
+    }
+    .icon11 {
+        padding-left: 5px;
+        padding-top: 7px;
+    }
+/*---------------------section 3----------------------*/
+    .sec3{
+        height: 500px;
+    }
+    .num{
+        flex-direction: column;
+    }
+    .number1{
+       width: 100%;
+    }
+/*---------------------section 4----------------------*/    
+    .sec4{
+        height: 400px;
+    }
+    .box1{
+        flex-direction: column;
+        height: 200px;
+    }
+    .box11{
+        width: 100%;
+    }
+    .box111{
+    
+    }
+    .image3 {
+        width: 70px;
+        margin-left: 40px;
+        margin-top: 37px;
+    }
+    #no-right{
+        border-right: 0px;
+    }
+    #no-bottom{
+        border-bottom: 0px;
+    }
+/*---------------------section 5----------------------*/
+    .row1{ 
+        flex-direction: column;
+    }
+    .box5-1{
+        width: 95%;
+        margin: 10px;
+    }
+    .box5-12{
+        width: 100%;
+    }
+/*---------------------section 6----------------------*/
+    .row6{
+        flex-direction: column;
+        margin-top: 0px;
+    }
+    .box6{
+        width: 100%;
+        margin-top: 25px;
+    }
+    .image6{
+        height: 280px;
+        width: 310px;
+    }
+/*---------------------section 7----------------------*/
+    .image7 {
+        width: 100%;
+        height: 440px;
+    }
+    .para7 {
+        width: 100%;
+    }
+/*---------------------section 8----------------------*/
+    .team{
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+/*---------------------section 9----------------------*/
+    .box9{
+        flex-direction: column;
+    }
+    .box9-1{
+        width: 100%;
+    }
+    .box9-12{
+        width: 100%;
+    }
+    .name9{
+        justify-content: none;
+        flex-direction: column;
+    }
+    #id9{
+        margin-bottom: 30px;
+    }
+    .name {
+        width: 96%;
+        margin-left: 5px;
+    }
+    .msg {
+        width: 95%;
+    }
+    .msg9{
+        padding: 0px;
+    }
+/*---------------------section 10----------------------*/
+    .search10 {
+        width: 70%;
+    }
+/*---------------------footer----------------------*/
+    footer {
+        margin: 50px 20px;
+        flex-direction: column;
+    }
+    .f1{
+        margin-bottom: 20px;
+    }
+    .f2{
+        margin-bottom: 20px;
+    }
+
+
+
